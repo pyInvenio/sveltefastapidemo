@@ -1,0 +1,1 @@
+export const OPEN_AI_KEY = 'your api keys here';
